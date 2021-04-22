@@ -4,7 +4,7 @@
   "description": "Hello World App",
   "main": "server.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node server.js"
   },
   "author": "Red Hat Training",
   "license": "ASL",
